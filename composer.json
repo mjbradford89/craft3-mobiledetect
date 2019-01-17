@@ -1,5 +1,5 @@
 {
-    "name": "superbig/craft3-mobiledetect",
+    "name": "mjbradford89/craft3-mobiledetect",
     "description": "Use Mobile_Detect for detecting mobile devices (including tablets)",
     "type": "craft-plugin",
     "version": "1.0.1",
